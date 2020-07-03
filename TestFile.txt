@@ -2,3 +2,5 @@ chamge 1- commit with change message "change 1 in file1"
 chamge 2 - commit with change message "change 2 in file1" 
 change - from mater branch
 change - from mater branch
+change 3- added from idea branch
+
